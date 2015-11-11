@@ -2,6 +2,7 @@
 
 * Set up microphones
   * *Hold* pwr button to turn on and off
+  * Ask each speaker if they will be live-coding. If they will, be sure they are given a lavalier style microphone (the kind that clips to your shirt).
 * Get each speaker to plug in and test display setup
 * If you haven't already, tell speakers what order they will be presenting in
   * We usually let them decide it between themselves
