@@ -1,3 +1,13 @@
+# In-between Meetup tasks
+
+* 2 months prior to a future Meetup, create a new event on nycrb-cfpapp.herokuapp.com. Copy-paste guidelines/description from previous Event. Announce the new, open CFP on the NYC.rb mailing list (nyc-rb-announce@meetup.com). Set the proposal deadline to 1 month + 1 week prior to the future meetup. EXAMPLE: For the March 2016 meetup, we opened proposals at the January meetup (January 12), and proposals were due three weeks later (Feb 2nd).
+* 1 week prior to proposal deadline, send a reminder email to nyc-rb-announce@meetup.com. EXAMPLE: For the march 2016 meetup, we sent this email on 1/26.
+* 1 day prior to proposal deadline, send a reminder email to nyc-rb-announce@meetup.com. EXAMPLE: Sent on 2/1.
+* The day after the proposal deadline, all organizers independently rate each proposal on a 1-5 scale (done in the app). The best 2-3 talks get selected for the meetup. Organizers have a 15-minute phone call to discuss the selection, making sure time and subject matter concerns are met. One organizer is delegated to update the meetup description with the talks that were selected.
+* At each Meetup, we announce talks for the *next* Meetup. EXAMPLE: At the February meetup, we announce the talks for March.
+
+# Running a Meetup
+
 ## 6:30 - Arrive
 
 * Set up microphones
